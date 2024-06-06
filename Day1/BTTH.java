@@ -1,4 +1,4 @@
-package ss1;
+package Day1;
 
 //btth1
 // import java.util.Date;
