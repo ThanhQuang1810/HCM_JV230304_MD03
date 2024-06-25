@@ -1,8 +1,8 @@
 package Day6.BTTH1;
 
-import BTTH1.ra.Animal;
-import BTTH1.ra.Cat;
-import BTTH1.ra.Dog;
+import Day6.BTTH1.ra.Animal;
+import Day6.BTTH1.ra.Cat;
+import Day6.BTTH1.ra.Dog;
 
 public class Main {
     public static void main(String[] args) {
